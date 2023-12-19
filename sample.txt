@@ -1,2 +1,0 @@
-my first rest project
-added another entry on the second line
